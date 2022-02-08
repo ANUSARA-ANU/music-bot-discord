@@ -20,4 +20,4 @@ coming soon
 
 # Replit Users 
 
-[Click Here](wait) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@FbTo/music-bot-discord-1?v=1)
