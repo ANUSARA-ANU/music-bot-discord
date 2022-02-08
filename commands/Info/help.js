@@ -4,12 +4,6 @@ const Discord = require("discord.js");
 const disbut = require('discord-buttons');
 const { MessageActionRow, MessageButton } = require("discord-buttons");
 const { prefix, developerID, bot, support } = require("../../config.json")
-const request = require('node-superfetch');
-const Color = "RANDOM";
-const Discord = require("discord.js");
-const disbut = require('discord-buttons');
-const { MessageActionRow, MessageButton } = require("discord-buttons");
-const { prefix, developerID, bot, support } = require("../../config.json")
 
 
 
@@ -22,9 +16,9 @@ module.exports = {
 
     const embed = new Discord.MessageEmbed()
     .setTitle(`${bot} Help`)
-    .setDescription(` Hello **${message.author.username}**, \n *Choose an category below to see commands* \n\n :question: New to ${bot}? Check out server \n ${support} \n\n Also Join Our Developer Server \n https://discord.gg/BYpGMHbfr7`)
+    .setDescription(` Hello **${message.author.username}**, \n *Choose an category below to see commands* \n\n :question: New to ${bot}? Check out server \n ${support} \n\n ගැලුවක්හ ඇත්තනම් පහත link එකෙන් අපෙ server එකට එන්න.  If you have a problem, click on the link below and join our discord server. \n https://discord.gg/BYpGMHbfr7`)
     .setThumbnail(client.user.displayAvatarURL())
-    .setColor("RANDOM")
+    .setColor("RED")
     .setFooter(`Requested by: ${message.author.tag}`)
 
 
@@ -53,7 +47,7 @@ module.exports = {
 
     let button2 = new MessageButton()
     .setLabel(`Info`)
-    .setID(`info`)
+    .setID(`Info`)
     .setStyle("green");
 
 
@@ -90,4 +84,3 @@ module.exports = {
 
    
 }};
-
