@@ -102,12 +102,8 @@ cooldown.delete(message.author.id)}, cdseconds * 1000)
 
   if (!command) command = client.commands.get(client.aliases.get(cmd));
 
-  if (command.premium) {
-    let guild = await db.get(`premium_${message.guild.id}`);
-
-
-    if (!guild) {
-      return message.channel.send(`You can use this command in only premium server. \n **Want to make your server premium?** Donate US!: https://paypal.me/atreyadiwas `)
+ //primium info 
+  
     }
 
   }
