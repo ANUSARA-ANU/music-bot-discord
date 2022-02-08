@@ -2,12 +2,11 @@
 Discord music bot with buttons. Play a best quality music.
 
 # Youtube Tutorial
-https://www.youtube.com/watch?v=vdmME5pX_ho
+coming soon 
 
-![play](https://media.discordapp.net/attachments/885540251043495966/886869092781404201/unknown.png)
+![play](https://i.ibb.co/pfRqHXK/Screenshot-42.png)
 
-
-![help](https://media.discordapp.net/attachments/885540251043495966/886869220636385330/unknown.png)
+![help](https://i.ibb.co/ZgM0kVD/Screenshot-43.png)
 
 
 # Setup
@@ -21,4 +20,4 @@ https://www.youtube.com/watch?v=vdmME5pX_ho
 
 # Replit Users 
 
-[Click Here](https://repl.it/github/diwasatreya/Music-Bot) 
+[Click Here](wait) 
