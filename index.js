@@ -153,13 +153,13 @@ require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |• Alive: 24/7                            |
  |-----------------------------------------|
- |• Author: Supreme#2401                   |
+ |• Author: Anuwa                   |
  |-----------------------------------------|
- |• Server: https://discord.gg/gU7XAxTpX5  |
+ |• Server: https://discord.gg/BYpGMHbfr7  |
  |-----------------------------------------|
- |• Github: https://github.com/diwasatreya |
+ |• Github: https://github.com/ANUSARA-ANU |
  |-----------------------------------------|
- |• License: Apache License 2.0            |
+ |• License: ****************           |
  |-----------------------------------------|
 `)).listen(3000) //Dont remove this 
 
@@ -174,8 +174,7 @@ client.on("ready", () => {
 
 //  For Watching Status
 // client.on("ready", () => {
-// client.user.setActivity(`Chilling with owner`, { type:         "STREAMING",
-// url: "https://www.twitch.tv/nocopyrightsounds"})
+// client.user.setActivity("|•neo•|*help");
 // console.log(`Successfully logined as ${client.user.tag}});
 
 client.login(process.env.TOKEN);
